@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/urlshortreactwebsite/static/css/main.fdbe0828.css",
+    "main.js": "/urlshortreactwebsite/static/js/main.dacc1997.js",
+    "static/media/people working.png": "/urlshortreactwebsite/static/media/people working.ac67a52cf1621a808390.png",
+    "static/media/Meteor.png": "/urlshortreactwebsite/static/media/Meteor.369433fca7e77887e38a.png",
+    "static/media/logo.svg": "/urlshortreactwebsite/static/media/logo.834643034343520f3b4d7e43111ed4d8.svg",
+    "static/media/icon-instagram.svg": "/urlshortreactwebsite/static/media/icon-instagram.df5873287e1c06a0fe74440f6ccd8394.svg",
+    "index.html": "/urlshortreactwebsite/index.html",
+    "static/media/icon-twitter.svg": "/urlshortreactwebsite/static/media/icon-twitter.1d5c6d5e6ab1717a500af2df0a87959a.svg",
+    "static/media/icon-facebook.svg": "/urlshortreactwebsite/static/media/icon-facebook.229c75a01827343aef31ae916e2ec18a.svg",
+    "main.fdbe0828.css.map": "/urlshortreactwebsite/static/css/main.fdbe0828.css.map",
+    "main.dacc1997.js.map": "/urlshortreactwebsite/static/js/main.dacc1997.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdbe0828.css",
+    "static/js/main.dacc1997.js"
+  ]
+}
