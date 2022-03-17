@@ -1,0 +1,33 @@
+.footer-container{
+    background-color: 	#35323e;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* text-align: center; */
+}
+
+.text-container{
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    gap: 10rem;
+    /* align-items: center; */
+    padding-top: 30px;
+}
+.feature p a,.resource p a,.company p a{
+    color: white;
+    text-decoration: none;
+}
+.feature p a:hover,.resource p a:hover,.company p a:hover{
+    color: cyan;
+}
+.image-container h4{
+    color: white;
+}
+.image-container img{
+    padding: 5px;
+}
+.image-container img:hover{
+    color: cyan;
+    cursor: pointer;
+}

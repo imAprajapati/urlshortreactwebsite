@@ -1,0 +1,39 @@
+.search-container{
+    background-image: url('../../assest/Meteor.png');
+    height: 14vh;
+    margin-left: 50px;
+    margin-right: 50px;
+    /* z-index: 5; */
+    /* position: absolute; */
+}
+.search{
+    width: 40%;
+    margin:auto;
+    padding-top: 2rem;
+    display: flex;
+    gap:1rem;
+}
+.search input{
+    height: 6vh;
+    padding: 2px 0 0 7px;
+    width: 75%;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+}
+::placeholder{
+    padding-left: 5px;
+    color:  palevioletred;
+}
+.search button{
+    border: none;
+    border-radius: 5px;
+    padding: 5px 13px;
+    background-color: rgb(54, 189, 189);
+    color: white;
+    
+}
+.search button:hover{
+    cursor: pointer;
+    opacity: 0.9;
+}

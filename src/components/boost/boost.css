@@ -1,0 +1,22 @@
+.boost{
+    background-image: url(../../assest/Meteor.png);
+    margin-top: -15px;
+    text-align: center;
+    padding: 5rem;
+}
+.boost h4{
+    color: white;
+    font-size: 2rem;
+}
+.boost button{
+    padding: 20px 30px;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 6%;
+    background-color: cyan;
+    
+}
+.boost button:hover{
+    cursor: pointer;
+    opacity: 0.9;
+}
